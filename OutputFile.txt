@@ -1,0 +1,25 @@
+First Name	   Last Name		  Q1  Q2  Q3  Q4  Q5   E1   E2   E3   Final  Grade
+------------------------------------------------------------------------------------------
+CARL                BALLARD               16  12  16  16  20   65   80   92  79.350  C+    
+MIRANDA             BOONE                 17  17  13  17  20   86   91   71  83.133  B-    
+GARRY               CLAYTON               10  16  18  14  19   86   85   84  82.200  B-    
+RUDOLPH             FISHER                17  18  20  18  18   82   68   77  81.033  B-    
+NICK                FLOYD                 18  13  20  17  16   79   76   81  80.533  B-    
+JANIE               FOWLER                18  18  19  18  20   80   90   69  84.333  B     
+ALBERTO             GILBERT               15  20  18  17  19   51   76   99  80.117  B-    
+HERBERT             HARVEY                20  16  11  14  12   80  100   80  81.883  B-    
+BRAD                HAYES                 17  20  13  11  20   81   92   87  84.683  B     
+BELINDA             JACKSON               18  10  16  18  16   59   76   87  75.400  C     
+RANDY               JACKSON               18  19  15  19  17   67   61   65  72.617  C-    
+BRIDGET             KELLER                19  14  15  20  20   90   66   66  78.900  C+    
+KENNETH             KELLY                 11  19  17  19  18   76   75   67  76.633  C     
+BRANDI              LAMB                  19  17  20  12  16   97   67   65  79.017  C+    
+SUE                 LEONARD               12  15  12  18  17   85   77  100  82.667  B-    
+LARRY               MARSH                 16  11  20  15  11   78   82   96  81.017  B-    
+CASSANDRA           MASON                 14  20  18  20  17   85   76  100  87.700  B     
+JESSIE              MORAN                 16  14  13  19  19   78   79   66  76.667  C     
+MORRIS              NEWTON                20  19  19  20  16   75   80   66  80.783  B-    
+LESLIE              PEREZ                 13  18  17  12  20   81   81   96  83.900  B-    
+LAURIE              PHELPS                18  11  13  16  15   90   93   76  81.667  B-    
+CHAD                RODRIGUEZ             15  16  20  18  18   86   71   79  81.583  B-    
+PHILIP              ZIMMERMAN             17  13  18  16  18   79   78   64  76.583  C     
